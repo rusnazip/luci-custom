@@ -69,7 +69,8 @@ m.uci:foreach("network", "switch",
 					{ num = 2, label = "Port 3" },
 					{ num = 3, label = "Port 4" },
 					{ num = 4, label = "Port 5" },
-					{ num = 5, label = "CPU (eth0)", tagged = false }
+					{ num = 5, label = "Port 6" },
+					{ num = 6, label = "CPU (eth0)", tagged = false }
 				}
 			}
 		end
